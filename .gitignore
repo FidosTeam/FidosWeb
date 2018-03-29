@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+.idea/
+FidosWeb.iml
+css/.DS_Store
+img/.DS_Store
+scss/.DS_Store
+vendor/.DS_Store
