@@ -36,7 +36,7 @@ $(function() {
           // Fail message
         },
         complete: function() {
-           document.location.href = "/gracias";
+           window.location.href = "/gracias";
         }
       });
     },
